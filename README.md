@@ -2,8 +2,9 @@
 
 ## Установка
 
-Проект использует Kafka (вместе с zookeeper и kafka-ui), Prometheus и Grafana.
-Всё это поднимается на докере, сам yaml находится по пути: ```scripts/docker-compose.yaml```
+Проект использует Kafka (вместе с zookeeper и kafka-ui), Prometheus и Grafana. Всё это поднимается на докере:
+- `docker-compose.yaml` находится по пути: ```scripts/docker-compose.yaml```;
+- `Dockerfile` располагается по пути: `scripts/config/grafana/Dockerfile`.
 
 ## Запуск
 - Файл запуска: `App.java`;

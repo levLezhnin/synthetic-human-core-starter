@@ -40,15 +40,17 @@
       <change afterPath="$PROJECT_DIR$/../WeatherProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WeatherProject/src/main/webapp/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bishop-prototype/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bishop-prototype/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bishop-prototype/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bishop-prototype/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bishop-prototype/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bishop-prototype/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/java/org/example/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/java/org/example/RestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/java/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bishop-prototype/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV2/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV2/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV2/.idea/misc.xml" afterDir="false" />
@@ -96,7 +98,6 @@
       <change afterPath="$PROJECT_DIR$/../healthCareV3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV3/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/kotlinc.xml" afterDir="false" />
@@ -111,8 +112,14 @@
       <change afterPath="$PROJECT_DIR$/../test/demo-app/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../healthCareV1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../healthCareV1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/grafana/grafana.db" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/grafana/grafana.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prometheus/chunks_head/000002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prometheus/wal/00000003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prometheus/wal/00000004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prometheus/wal/00000005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/prometheus/wal/checkpoint.00000002/00000000" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +182,7 @@
       <recent name="C:\Users\lezhn\IdeaProjects\synthetic-human-core-starter\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Maven.build">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="synthetic-human-core-starter" />
