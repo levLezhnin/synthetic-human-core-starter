@@ -96,28 +96,7 @@
       <change afterPath="$PROJECT_DIR$/../healthCareV3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV3/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../healthCareV3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/config/grafana/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/config/prometheus.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/command_handler/CommandExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/error_handler/ErrorHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/messaging/LogEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/messaging/LogProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metrics/ExecutorMetrics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metrics/MetricPrefixes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metrics/MetricService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/metrics/MetricServiceImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/messaging/LogProducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/kotlinc.xml" afterDir="false" />
@@ -132,6 +111,8 @@
       <change afterPath="$PROJECT_DIR$/../test/demo-app/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../healthCareV1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../healthCareV1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +132,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -173,6 +154,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.build.executor": "Run",
     "Maven.clean.executor": "Run",
+    "Maven.synthetic-human-core-starter [clean...].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
